@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "3de1",
+      "title": "Stranger things",
+      "body": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "author": "max"
+    },
+    {
+      "id": "3d9a",
+      "title": "sheldon",
+      "body": "Sheldon Cooper, a bona fide genius, has been promoted four grades. Meanwhile, he struggles to fit in with his unintellectual family in Texas.",
+      "author": "sheldon"
+    },
+    {
+      "id": "7cee",
+      "title": "dark",
+      "body": "The story follows characters from the fictional town of Winden, Germany, as they pursue the truth in the aftermath of a child's disappearance. They follow connections between four estranged families to unravel a sinister time travel conspiracy that spans several generations.",
+      "author": "max"
+    }
+  ]
+}
